@@ -33,6 +33,6 @@ experience:
       Responsibility include:  
       * Quantitative research
       * Collect raw data from myoelectric device
-      * Calibrate recognized gesture signals with IMU data to control robotic Arm 
+      * Calibrate recognized gesture signals with IMU data to control robotic Arm'
 
 ---
