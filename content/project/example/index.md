@@ -1,8 +1,6 @@
 ---
-title: Myoelectric and Inertial Measurement Unit for Robotic application and Smart System
-summary: - Read sEMG and IMUs data from Myo armband from gateway device for filtering and categorizing different hand gestures.
-- Utilized MQTT protocol to bridge connection with microcontroller to remotely control robotic arm.
-- Implemented gesture-based appliance control with HassIO. 
+title: Myoelectric and IMU for Robotic application and Smart System
+summary: Read sEMG and IMUs data from Myo armband from gateway device for filtering and categorizing different hand gesturesM; Utilized MQTT protocol to bridge connection with microcontroller to remotely control robotic arm; Implemented gesture-based appliance control with HassIO. 
 tags:
 - IoT, Smart System, Assistive Technology, Signal Processing
 date: "2016-04-27T00:00:00Z"
