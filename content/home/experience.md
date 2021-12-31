@@ -35,6 +35,4 @@ experience:
       * Collect raw data from myoelectric device
       * Calibrate recognized gesture signals with IMU data to control robotic Arm 
 
-design:
-  columns: '2'
 ---
