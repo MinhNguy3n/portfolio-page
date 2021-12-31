@@ -41,9 +41,6 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
-- icon: facebook
-  icon_pack: fab
-  link: https://www.facebook.com/minh.nguyenhoang.796
 # TO-DO: add google scholar profile once it's populated with some articles
 #- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
 #  icon_pack: fas
