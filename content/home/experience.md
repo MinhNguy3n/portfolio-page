@@ -25,7 +25,7 @@ experience:
   - title: Visiting research Assistant
     company: TIERS research group
     company_url: 'https://tiers.utu.fi'
-    company_logo: turun_tr_white
+    company_logo: turku
     location: Turku
     date_start: '2019-12-17'
     date_end: '2020-03-31'
@@ -38,18 +38,20 @@ experience:
 
       - Calibrate recognized gesture signals and collected IMU data (acceleration, angular velocity) to control robotic Arm'
   - title: Front-end web developer
-    company: Urbanzee
-    company_url: 'https://tiers.utu.fi'
-    company_logo: turun_tr_white
+    company: TheFirma
+    company_url: ''
+    company_logo: thefirma
     location: Turku
-    date_start: '2019-12-17'
-    date_end: '2020-03-31'
+    date_start: '2018-06-11'
+    date_end: '2020-08-28'
     description: '
       Responsibility include: 
       
-      - Perform quantitative research regarding the daily life activity monitoring systems that targeted elderly 
-
-      - Build a smart system for controlling actuators based on EMG signals from myo-electric armband
-
-      - Calibrate recognized gesture signals and collected IMU data (acceleration, angular velocity) to control robotic Arm'
+      - Co-designed, co-developed and implemented a prototype mobile web-App in a team with the project owner.
+      
+      - Used React/Redux, Semantic UI, and related software packages for building user interface.
+      
+      - Integrated with Django API on the frontend to display relevant data.'
+design:
+  columns: '2'
 ---

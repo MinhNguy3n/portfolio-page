@@ -47,7 +47,7 @@ contact_links:
     name: DM Me
     link: 'https://web.telegram.im'
   - icon: linkedin
-    icon_pack: fas
+    icon_pack: fab
     name: Message Me
     link: 'https://www.linkedin.com/in/minh-nguyen3195/'
 
