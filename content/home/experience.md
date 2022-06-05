@@ -22,6 +22,20 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Thesis worker, Technology
+    company: Oras Group
+    company_url: 'https://www.orasgroup.com'
+    company_logo: oras_logo
+    location: Rauma
+    date_start: '2022-05-01'
+    date_end: '2022-12-31'
+    description: '
+      Responsibility include: 
+
+      - Find a feasible solution for implementing intelligence into existing water valve in homes
+
+      - Familiarize with the microcontroller and development environment and prepare experiments with the mock-up product.
+
   - title: Visiting research Assistant
     company: TIERS research group
     company_url: 'https://tiers.utu.fi'
