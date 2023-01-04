@@ -22,7 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Thesis worker, Technology
+  - title: Thesis worker, pipline Leakage dectection
     company: Oras Group
     company_url: 'https://www.orasgroup.com'
     company_logo: oras_logo
@@ -34,7 +34,13 @@ experience:
 
       - Find a feasible solution for implementing intelligence into existing water valve in homes
 
-      - Familiarize with the microcontroller and development environment and prepare experiments with the mock-up product.
+      – Program Silab’s EFR32 controller to collect hydraulic measurements from the pipeline (pressure, flowrate, temperature)
+
+      – Collaborate with experts in the water laboratory to design a pilot pipeline.
+      
+      – Applied hydraulic theories (transient analysis) in detecting abnormal behaviors in the pipeline.
+
+      – Develop a machine learning model using Scikit-learn module to detect and localize leaks
 
   - title: Visiting research Assistant
     company: TIERS research group
