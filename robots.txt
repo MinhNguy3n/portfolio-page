@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://MinhNguy3n.github.io/sitemap.xml
